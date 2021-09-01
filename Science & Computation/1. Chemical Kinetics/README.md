@@ -1,1 +1,1 @@
-#Consecutive and Parallel Chemical Kinetics
+# Consecutive and Parallel Chemical Kinetics
